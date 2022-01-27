@@ -29,6 +29,10 @@ header {
   align-items: center;
   margin-bottom: 30px;
 }
+.active {
+  background: black;
+  color: red;
+}
 
 .card {
   background-color: #fff;
